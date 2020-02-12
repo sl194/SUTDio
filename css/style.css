@@ -7474,8 +7474,8 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .6;
-    width: 50%;
+    opacity: 0.8;
+    width: 100%;
     background: #f1b8c4; }
   .hero-wrap .slider-text {
     color: #fff;
