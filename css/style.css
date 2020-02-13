@@ -8583,7 +8583,7 @@ textarea.form-control {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 250px;
+  height: auto;
   position: relative;
   display: block; }
 
