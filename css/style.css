@@ -6271,7 +6271,9 @@ button.bg-dark:focus {
 
 .pb-3,
 .py-3 {
-  padding-bottom: 2rem !important; }
+  padding-bottom: 1rem !important; }
+
+.newwww {padding-bottom: 0.5rem !important; }
 
 .pl-3,
 .px-3 {
@@ -8052,7 +8054,7 @@ h1, h2, h3, h4, h5,
       height: 150px;
       margin: 0 auto; }
     .table tbody tr td.product-name {
-      width: 30%; }
+      width: 12.5%; }
       .table tbody tr td.product-name h3 {
         font-size: 14px;
         text-transform: uppercase;
